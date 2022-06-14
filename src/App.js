@@ -12,6 +12,7 @@ import Adminscreen from './screens/Adminscreen';
 function App() {
   return (
     <div className="App">
+      
        <Navbar/>
 
        <BrowserRouter>
